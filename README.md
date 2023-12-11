@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/roniragilimankhoirul/roniragilimankhoirul/blob/main/lain_kuma.gif)
+![MasterHead](https://github.com/roniragilimankhoirul/roniragilimankhoirul/blob/main/lain_kuma.gif)
 <h1 align="center">Hi 👋, I'm Roni Ragil Iman Khoirul</h1>
 <h3 align="center">A Self-proclaim Software Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/roniragilimankhoirul/roniragilimankhoirul/blob/main/lain_computer.gif">
